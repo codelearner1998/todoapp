@@ -12,7 +12,7 @@ function App() {
 
     const newValue = event.target.value
 
-    setinputText(newValue)
+    setinputText(newValue);
     
   }
 
@@ -45,7 +45,7 @@ function App() {
 
 
 
-
+//this is just to commit 
 
 
   return (
